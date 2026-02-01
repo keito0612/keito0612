@@ -14,8 +14,8 @@
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
-## 🌱 得意な技術スタック
-[![My Skills](https://skillicons.dev/icons?i=swift,flutter,dart,laravel,firebase)](https://skillicons.dev)
+## 🌱 勉強してきた技術スタック
+[![My Skills](https://skillicons.dev/icons?i=swift,flutter,dart,laravel,firebase,next,react)](https://skillicons.dev)
 <br>
 
 ##  パラメーター
