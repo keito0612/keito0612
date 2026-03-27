@@ -15,7 +15,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 勉強してきた技術スタック
-[![My Skills](https://skillicons.dev/icons?i=swift,flutter,dart,laravel,firebase,next,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,flutter,dart,laravel,firebase,next,react,supabase)](https://skillicons.dev)
 <br>
 
 ##  パラメーター
@@ -26,6 +26,7 @@
 <!-- PRODACT-POST-LIST:START -->
 - [家計簿アプリLife](https://apps.apple.com/jp/app/%E5%AE%B6%E8%A8%88%E7%B0%BF%E3%82%A2%E3%83%97%E3%83%AAlife/id6457262696)
 - [ScanBook](https://apps.apple.com/jp/app/scanbook/id6636538321)
+- [プレリビ](https://pre-re-vi.com/)
 <!-- PRODACT-POST-LIST:END -->
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
