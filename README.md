@@ -15,7 +15,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 勉強してきた技術スタック
-[![My Skills](https://skillicons.dev/icons?i=swift,flutter,dart,laravel,firebase,next,react,supabase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,flutter,dart,laravel,firebase,next,react,supabase,hono,prisma)](https://skillicons.dev)
 <br>
 
 ##  パラメーター
